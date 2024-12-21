@@ -1,0 +1,7 @@
+Elapsed time in milliseconds Indexing: 129117210250
+Elapsed time in milliseconds Indexing: 150902346709
+Elapsed time in milliseconds Indexing: 61501810667
+Elapsed time in milliseconds Indexing: 295842258041
+Elapsed time in milliseconds Indexing: 40972872791
+Elapsed time in milliseconds Indexing: 40147641833
+Elapsed time in milliseconds Indexing: 136051686375
